@@ -1,3 +1,8 @@
 {
-  "base_url": "http://rannpanel.voltxyz.my.id:2000"
+  "server_host": "rannpanel.voltxyz.my.id",
+  "server_port": 2002,
+  "update_available": true,
+  "version": "v2.0.1",
+  "notes": "Update perdana, fix bug.",
+  "apk_url": "https://t.me/AboutRanoffcial"
 }
