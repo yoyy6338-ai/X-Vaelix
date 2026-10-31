@@ -1,6 +1,6 @@
 {
   "server_host": "panelprivatpanel.voltxyz.my.id",
-  "server_port": 2000,
+  "server_port": 2005,
   "update_available": true,
   "version": "v2.0.1",
   "notes": "Update perdana, fix bug.",
